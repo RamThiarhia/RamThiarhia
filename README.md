@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramesh Kumar Thiarhia
 - 👀 I’m interested in Software and Web Development
 - 🌱 I’m currently learning multiple programming languages
-- 📫 How to reach me facebook:@rameshkumarantaranthiarhia
+- 📫 Reach me on facebook:@rameshkumarantaranthiarhia
 
 <!---
 RamThiarhia/RamThiarhia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
