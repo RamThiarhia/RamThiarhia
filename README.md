@@ -1,6 +1,6 @@
 ![MasterHead](https://9thcloud.in/wp-content/uploads/website.gif)
-<h1 align="center">Hi 👋, I'm Ramesh Kumar Antaran Thiarhia</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h1 align="center">Hi, I'm Ramesh Kumar Thiarhia</h1>
+<h3 align="center">An Aspiring Software Engineer/Web Developer from the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramthiarhia&label=Profile%20views&color=0e75b6&style=flat" alt="ramthiarhia" /> </p>
 
