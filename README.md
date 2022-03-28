@@ -1,14 +1,16 @@
-[![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)]()
+![MasterHead](https://9thcloud.in/wp-content/uploads/website.gif)
 <h1 align="center">Hi 👋, I'm Ramesh Kumar Antaran Thiarhia</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramthiarhia&label=Profile%20views&color=0e75b6&style=flat" alt="ramthiarhia" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- My major is **Computer Science**.
 
-- 📫 How to reach me **Facebook: Ramesh Kumar Thiarhia**
+- I’m currently learning **Java**
 
-- ⚡ Fun fact **I made Portfolio website without Learning Javascript**
+- You can reach me on Facebook: **Ramesh Kumar Thiarhia**
+
+- I'm open for Collaboration
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
