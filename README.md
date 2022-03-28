@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Facebook: Ramesh Kumar Thiarhia**
 
-- ⚡ Fun fact **I make Portfolio website without Learning Javascript**
+- ⚡ Fun fact **I made Portfolio website without Learning Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
