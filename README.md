@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramthiarhia&label=Profile%20views&color=0e75b6&style=flat" alt="ramthiarhia" /> </p>
 
-- My major is **Computer Science**.
+- Major is **Computer Science**.
 
-- I’m currently learning **Java**
+- Currently learning **Java GUI**
 
-- You can reach me on Facebook: **Ramesh Kumar Thiarhia**
+- Facebook: **Ramesh Kumar Thiarhia**
 
-- I'm open for Collaboration
+- Open for Collaboration
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
